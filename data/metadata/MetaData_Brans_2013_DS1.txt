@@ -1,0 +1,20 @@
+Author Data: Brans et al. (2013) 
+
+Citation: Brans, K., Koval, P., Verduyn, P., Lim, Y. L., & Kuppens, P. (2013). The regulation of negative and positive affect in daily life. Emotion, 13(5), 926–939. https://doi.org/10.1037/a0032400
+
+Label in code: Brans_2013_DS1
+Label in text: Brans 2013 DS1
+
+Data format: .csv file 
+3630 Rows, 9 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-Angry: Observation on a scale ranging from 1-6
+-Depressed: Observation on a scale ranging from 1-6
+-Anxiety: Observation on a scale ranging from 1-6
+-Stressed: Observation on a scale ranging from 1-6
+-Relaxed: Observation on a scale ranging from 1-6
+-Happy: Observation on a scale ranging from 1-6

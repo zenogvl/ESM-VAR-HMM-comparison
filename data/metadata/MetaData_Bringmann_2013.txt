@@ -1,0 +1,19 @@
+Author Data: Bringmann et al. (2013) 
+
+Citation: 
+
+Label in code: Bringmann_2013
+Label in text: Bringmann 2013
+
+Data format: .csv file 
+28600 Rows, 8 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-Excited: Observation on a scale ranging from 1-7. Recoded from: opgewkt_
+-Worried: Observation on a scale ranging from 1-7. Recoded from: pieker
+-Anxious: Observation on a scale ranging from 1-7. Recoded from: angstig_
+-Sad: Observation on a scale ranging from 1-7. Recoded from: somber__
+-Relaxed: Observation on a scale ranging from 1-7. Recoded from: ontspann

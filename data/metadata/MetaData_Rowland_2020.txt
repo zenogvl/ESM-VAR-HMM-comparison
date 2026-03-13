@@ -1,0 +1,28 @@
+Author Data: Rowland et al. (2020)
+
+Citation: Rowland, Z., Wenzel, M. Mindfulness and Affect-Network Density: Does Mindfulness Facilitate Disengagement from Affective Experiences in Daily Life?. Mindfulness 11, 1253–1266 (2020). https://doi.org/10.1007/s12671-020-01335-4
+
+
+Label in Code: Rowland_2020
+Label in text: Rowland 2020
+
+Data format: .csv file
+30000 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Happy: Observation on a scale ranging from 0-100. Recoded from "emo1_m"
+-Excited: Observation on a scale ranging from 0-100. Recoded from "emo2_m"
+-Relaxed: Observation on a scale ranging from 0-100. Recoded from "emo3_m"
+-Satisfied: Observation on a scale ranging from 0-100. Recoded from "emo4_m"
+-Angry: Observation on a scale ranging from 0-100. Recoded from "emo5_m"
+-Anxious: Observation on a scale ranging from 0-100. Recoded from "emo6_m"
+-Depressed: Observation on a scale ranging from 0-100. Recoded from "emo7_m"
+-Sad: Observation on a scale ranging from 0-100. Recoded from "emo8_m"
+
+
+

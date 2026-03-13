@@ -1,0 +1,30 @@
+Author Data: Koval et al. (2019) 
+
+Citation: Koval, P., Holland, E., Zyphur, M. J., Stratemeyer, M., Knight, J. M., Bailen, N. H., Thompson, R. J., Roberts, T.-A., & Haslam, N. (2019). How does it feel to be treated like an object? Direct and indirect effects of exposure to sexual objectification on women’s emotions in daily life. Journal of Personality and Social Psychology, 116(6), 885–898. https://doi.org/10.1037/pspa0000161
+
+Label in Code: Koval_2019_ds2
+Label in text: Koval 2019 study 2
+
+Data format: .csv file
+6138 Rows, 16 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Angry: Observation on a scale ranging from 1-100. 
+-Afraid: Observation on a scale ranging from 1-100. 
+-Anxious: Observation on a scale ranging from 1-100. 
+-Guilty: Observation on a scale ranging from 1-100. 
+-Embarrassed: Observation on a scale ranging from 1-100. 
+-Ashamed: Observation on a scale ranging from 1-100. 
+-Sad: Observation on a scale ranging from 1-100. 
+-Strong: Observation on a scale ranging from 1-100. 
+-Happy: Observation on a scale ranging from 1-100. 
+-Confident: Observation on a scale ranging from 1-100. 
+-Clarity: Observation on a scale ranging from 1-100. 
+
+
+

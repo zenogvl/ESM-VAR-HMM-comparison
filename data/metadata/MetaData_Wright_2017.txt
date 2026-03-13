@@ -1,0 +1,49 @@
+Author Data: Wright et al. (2017)
+
+Citation: Wright, A. G. C., Stepp, S. D., Scott, L. N., Hallquist, M. N., Beeney, J. E., Lazarus, S. A., & Pilkonis, P. A. (2017). The effect of pathological narcissism on interpersonal and affective processes in social interactions. Journal of Abnormal Psychology, 126(7), 898–910. https://doi.org/10.1037/abn0000286
+
+Label in Code: Wright_2017
+Label in text: Wright 2017
+
+Data format: .csv file
+29178 Rows, 35 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Afraid: Observation on a scale ranging from 3-7. 
+-Ashamed: Observation on a scale ranging from 3-7. 
+-Distressed: Observation on a scale ranging from 3-7. 
+-Guilty: Observation on a scale ranging from 3-7. 
+-Hostile: Observation on a scale ranging from 3-7. 
+-Irritable: Observation on a scale ranging from 3-7. 
+-Jittery: Observation on a scale ranging from 3-7. 
+-Nervous: Observation on a scale ranging from 3-7. 
+-Scared: Observation on a scale ranging from 3-7. 
+-Upset: Observation on a scale ranging from 3-7. 
+-Frightened: Observation on a scale ranging from 3-7. 
+-Shaky: Observation on a scale ranging from 3-7. 
+-Angry: Observation on a scale ranging from 3-7. 
+-Scornful: Observation on a scale ranging from 3-7. 
+-Disgusted: Observation on a scale ranging from 3-7. 
+-Loathing: Observation on a scale ranging from 3-7. 
+-Sad: Observation on a scale ranging from 3-7. 
+-Blue: Observation on a scale ranging from 3-7. 
+-Downhearted: Observation on a scale ranging from 3-7. 
+-Alone: Observation on a scale ranging from 3-7. 
+-Lonely: Observation on a scale ranging from 3-7. 
+-Active: Observation on a scale ranging from 3-7. 
+-Alert: Observation on a scale ranging from 3-7. 
+-Attentive: Observation on a scale ranging from 3-7. 
+-Determined: Observation on a scale ranging from 3-7. 
+-Enthusiastic: Observation on a scale ranging from 3-7. 
+-Excited: Observation on a scale ranging from 3-7. 
+-Inspired: Observation on a scale ranging from 3-7. 
+-Interested: Observation on a scale ranging from 3-7. 
+-Proud: Observation on a scale ranging from 3-7. 
+-Strong: Observation on a scale ranging from 3-7. 
+
+

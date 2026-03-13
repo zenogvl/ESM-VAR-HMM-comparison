@@ -1,0 +1,23 @@
+sAuthor Data: Johannes et al. (2021)
+
+Citation: Johannes, N., Meier, A., Reinecke, L., Ehlert, S., Setiawan, D. N., Walasek, N., ... & Veling, H. (2021). The relationship between online vigilance and affective well-being in everyday life: Combining smartphone logging with experience sampling. Media Psychology, 24(5), 581-605.
+
+Label in Code: Johannes_2021
+Label in text: Johannes 2021
+
+Data format: .csv file
+2725 Rows, 11 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-obsNumber: Order of all observations
+-missed: codes missing observation. 1 for missing, 0 for recorded 
+-Discontent: Observation on a scale ranging from 1-7. Recoded from "well_being_discontent"
+-Calm: Observation on a scale ranging from 1-7. Recoded from "well_being_calm"
+-Energetic: Observation on a scale ranging from 1-7. Recoded from "well_being_without_energy"
+-Wellbeing: Observation on a scale ranging from 1-7. Recoded from "well_being_well"
+-Tense: Observation on a scale ranging from 1-7. Recoded from "well_being_tense"
+-Happy: Observation on a scale ranging from 1-7. Recoded from "well_being_happy"
+

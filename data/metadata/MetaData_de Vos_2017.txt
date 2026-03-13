@@ -1,0 +1,30 @@
+Author Data: de Vos et al. (2017) 
+
+Citation: De Vos, S., Wardenaar, K. J., Bos, E. H., Wit, E. C., Bouwmans, M. E., & De Jonge, P. (2017). An investigation of emotion dynamics in major depressive disorder patients and healthy persons using sparse longitudinal networks. PLoS One, 12(6), e0178586.
+
+Label in code: de Vos_2017
+Label in text: de Vos 2017
+
+Data format: .csv file 
+4860 Rows, 19 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially
+-Talkative: Observation on a scale ranging from 1-7. Recoded from: b1_talkative
+-Energetic: Observation on a scale ranging from 1-7. Recoded from: b2_energetic
+-Tense: Observation on a scale ranging from 1-7. Recoded from: b3_tense
+-Anxious: Observation on a scale ranging from 1-7. Recoded from: b4_anxious
+-Enthousiastic: Observation on a scale ranging from 1-7. Recoded from: b5_enthousiastic
+-Confident: Observation on a scale ranging from 1-7. Recoded from: b6_confident
+-Distracted: Observation on a scale ranging from 1-7. Recoded from: b7_distracted
+-Restless: Observation on a scale ranging from 1-7. Recoded from: b8_restless
+-Irritated: Observation on a scale ranging from 1-7. Recoded from: b9_irritated
+-Satisfied: Observation on a scale ranging from 1-7. Recoded from: b10_satisfied
+-Happy: Observation on a scale ranging from 1-7. Recoded from: b11_happy
+-Depressed: Observation on a scale ranging from 1-7. Recoded from: b12_depressed
+-Cheerful: Observation on a scale ranging from 1-7. Recoded from: b13_cheerful
+-Guilty: Observation on a scale ranging from 1-7. Recoded from: b14_guilty

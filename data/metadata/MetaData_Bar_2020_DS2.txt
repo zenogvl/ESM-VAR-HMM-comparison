@@ -1,0 +1,20 @@
+Author Data: Bar Kalifa et al. (2020) 
+
+Citation: Eran Bar-Kalifa & Haran Sened (2020) Using Network Analysis for Examining Interpersonal Emotion Dynamics, Multivariate Behavioral Research, 55:2, 211-230, DOI: 10.1080/00273171.2019.1624147
+
+Label in code: Bar_2020_DS2
+Label in text: Bar Kalifa 2020_DS2
+
+Data format: .csv file 
+4050 Rows, 6 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially 
+-Anxiety: Observation on a scale ranging from 1-5. Recoded from: Anx
+-Sad: Observation on a scale ranging from 1-5. Recoded from: Sad
+-Vigor: Observation on a scale ranging from 1-5. Recoded from: Vig
+-Contentment: Observation on a scale ranging from 1-5. Recoded from: Con

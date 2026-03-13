@@ -1,0 +1,22 @@
+Author Data: Vrijen et al. (2018)
+
+Citation: Vrijen, C., Hartman, C. A., Van Roekel, E., De Jonge, P., & Oldehinkel, A. J. (2018). Spread the joy: How high and low bias for happy facial emotions translate into different daily life affect dynamics. Complexity, 2018, 1-15.
+
+Label in Code: Vrijen_2018
+Label in text: Vrijen 2018
+
+Data format: .csv file
+12403 Rows, 10 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Interested: Observation on a scale ranging from 0-100. Recoded from "INTraw"             
+-Joy: Observation on a scale ranging from 0-100. Recoded from "JOYraw"
+-Sad: Observation on a scale ranging from 0-100. Recoded from "SADraw"
+-Irritated: Observation on a scale ranging from 0-100. Recoded from "IRRraw"
+-Worried: Observation on a scale ranging from 0-100. Recoded from "WORraw"
+

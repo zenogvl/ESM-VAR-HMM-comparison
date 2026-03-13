@@ -1,0 +1,17 @@
+Author Data: 
+
+Citation: 
+
+Label in Code: 
+Label in text: 
+
+Data format: .csv file
+Rows, Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-: Observation on a scale ranging from 1-7. Recoded from 

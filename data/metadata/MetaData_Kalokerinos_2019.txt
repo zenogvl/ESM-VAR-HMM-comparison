@@ -1,0 +1,27 @@
+Author Data: Kalokerinos et al. (2019)
+
+Citation: Kalokerinos, E. K., Erbas, Y., Ceulemans, E., & Kuppens, P. (2019). Differentiate to Regulate: Low Negative Emotion Differentiation Is Associated With Ineffective Use but Not Selection of Emotion-Regulation Strategies. Psychological Science, 30(6), 863–879. https://doi.org/10.1177/0956797619838763
+
+Label in Code: Kalokerinos_2019
+Label in text: Kalokerinos 2019
+
+Data format: .csv file
+9102 Rows, 15 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-obsNumber: Order of all observations
+-missed: codes missing observation. 1 for missing, 0 for recorded 
+-Sad: Observation on a scale ranging from 0-100. Recoded from "emotion_sad"
+-Angry: Observation on a scale ranging from 0-100. Recoded from "emotion_angry"
+-Disappointed: Observation on a scale ranging from 0-100. Recoded from "emotion_disapp"
+-Ashamed: Observation on a scale ranging from 0-100. Recoded from "emotion_ashamed"
+-Anxious: Observation on a scale ranging from 0-100. Recoded from "emotion_anxious"
+-Stressed: Observation on a scale ranging from 0-100. Recoded from "emotion_stressed"
+-Proud: Observation on a scale ranging from 0-100. Recoded from "emotion_proud"
+-Happy: Observation on a scale ranging from 0-100. Recoded from "emotion_happy"
+-Content: Observation on a scale ranging from 0-100. Recoded from "emotion_content"
+-Relieved: Observation on a scale ranging from 0-100. Recoded from "emotion_relief"
+

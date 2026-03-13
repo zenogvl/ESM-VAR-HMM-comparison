@@ -1,0 +1,22 @@
+Author Data: Bringmann et al. (2016) 
+
+Citation: 
+
+Label in code: Bringmann_2016
+Label in text: Bringmann 2016
+
+Data format: .csv file 
+6329 Rows, 11 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially
+-Angry: Observation on a scale ranging from 1-100. Recoded from: KWAAD
+-Depressed: Observation on a scale ranging from 1-100. Recoded from: DEPRE
+-Sad: Observation on a scale ranging from 1-100. Recoded from: DROEV
+-Anxious: Observation on a scale ranging from 1-100. Recoded from: ANGST
+-Relaxed: Observation on a scale ranging from 1-100. Recoded from: ONTSP
+-Happy: Observation on a scale ranging from 1-100. Recoded from: BLIJ

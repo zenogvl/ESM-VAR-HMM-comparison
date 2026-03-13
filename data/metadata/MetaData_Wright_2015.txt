@@ -1,0 +1,26 @@
+Author Data: Wright et al. (2015)
+
+Citation: Wright, A. G., Beltz, A. M., Gates, K. M., Molenaar, P. C., & Simms, L. J. (2015). Examining the dynamic structure of daily internalizing and externalizing behavior at multiple levels of analysis. Frontiers in psychology, 6, 1914.
+
+Label in Code: Wright_2015
+Label in text: Wright 2015
+
+Data format: .csv file
+11312 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-missing: codes missing observation. 1 for missing, 0 for recorded, 2 for partly missing. 
+-Afraid: Observation on a scale ranging from 1-5.
+-Active: Observation on a scale ranging from 1-5.
+-Alert: Observation on a scale ranging from 1-5.
+-Nervous: Observation on a scale ranging from 1-5.
+-Attentive: Observation on a scale ranging from 1-5.
+-Determined: Observation on a scale ranging from 1-5.
+-Hostile: Observation on a scale ranging from 1-5.
+-Inspired: Observation on a scale ranging from 1-5.
+-Ashamed: Observation on a scale ranging from 1-5.
+-Upset: Observation on a scale ranging from 1-5.
+
+

@@ -1,0 +1,27 @@
+Author Data: van Woerkom et al. (2022)
+
+Citation: Woerkom, M.v., Constantin, M., Janssens, M. et al. Networks of happiness: applying a Network Approach to Well-Being in the General Population. J Happiness Stud 23, 3215–3231 (2022). https://doi.org/10.1007/s10902-022-00546-x
+
+Label in Code: vanWoerkom_2022
+Label in text: van Woerkom 2022
+
+Data format: .csv file
+8491 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Cheerful: Observation on a scale ranging from 1-7. Recoded from  "pa.1" 
+-Satisfied: Observation on a scale ranging from 1-7. Recoded from "pa.2" 
+-Happy: Observation on a scale ranging from 1-7. Recoded from "pa.3"
+-Insecure: Observation on a scale ranging from 1-7. Recoded from "na.1" 
+-Anxious: Observation on a scale ranging from 1-7. Recoded from "na.2"
+-Down: Observation on a scale ranging from 1-7. Recoded from "na.3"
+-Tired: Observation on a scale ranging from 1-7. Recoded from "ph.1"
+-Energetic: Observation on a scale ranging from 1-7. Recoded from "ph.2" 
+
+         
+                        

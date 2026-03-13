@@ -1,0 +1,28 @@
+Author Data: Naragon-Gainey et al. (2023)
+
+Citation: Naragon-Gainey, K., DeMarree, K. G., Kyron, M. J., McMahon, T. P., Park, J., & Biehler, K. M. (2023). Decentering From Emotions in Daily Life: Dynamic Associations With Affect, Symptoms, and Well-Being. Clinical Psychological Science, 0(0). https://doi.org/10.1177/21677026221147262
+
+Label in Code: Naragon_2023
+Label in text: Naragon-Gainey 2023
+
+Data format: .csv file
+14490 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded. 2 for partly missing
+-Active: Observation on a scale ranging from 1-5.
+-Interested: Observation on a scale ranging from 1-5.
+-Excited: Observation on a scale ranging from 1-5.
+-Strong: Observation on a scale ranging from 1-5.
+-Irritable: Observation on a scale ranging from 1-5.
+-Upset: Observation on a scale ranging from 1-5.
+-Anxious: Observation on a scale ranging from 1-5. Recoded from "AfraidAnx"
+-Sad: Observation on a scale ranging from 1-5.
+
+
+
+

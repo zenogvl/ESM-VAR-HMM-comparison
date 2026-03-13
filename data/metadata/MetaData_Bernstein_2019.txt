@@ -1,0 +1,20 @@
+Author Data: Bernstein et al. (2019) 
+
+Citation: Bernstein, E. E. , Curtiss, J. E. , Wu, G. Y. , Barreira, P. J. & McNally, R. J. (2019). Exercise and Emotion Dynamics. Emotion, 19 (4), 637-644. doi: 10.1037/emo0000462.
+
+Label in code: Bernstein_2019
+Label in text: Bernstein 2019
+
+Data format: .csv file 
+5703 Rows, 9 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially
+-Cheerful: Observation on a scale ranging from 0-100
+-Anxious: Observation on a scale ranging from 0-100. Recoded from "Fear"
+-Content: Observation on a scale ranging from 0-100
+-Sad: Observation on a scale ranging from 0-100

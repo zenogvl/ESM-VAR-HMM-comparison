@@ -1,0 +1,23 @@
+Author Data: Glastra van Loon (2019) 
+
+Citation: Glastra van Loon, Z. (2019). Is there a need for ideographic networks? Unpublished Bachelor Thesis, University of Amsterdam.
+
+Label in code: Glastra_2019
+Label in text: Glastra van Loon 2019
+
+Data format: .csv file 
+2814 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially-Energetic: Observation on a scale ranging from 1-100
+-Cheerful: Observation on a scale ranging from 1-100
+-Relaxed: Observation on a scale ranging from 1-100
+-Satisfied: Observation on a scale ranging from 1-100
+-Nervous: Observation on a scale ranging from 1-100
+-Irritated: Observation on a scale ranging from 1-100
+-Bored: Observation on a scale ranging from 1-100
+-Down: Observation on a scale ranging from 1-100

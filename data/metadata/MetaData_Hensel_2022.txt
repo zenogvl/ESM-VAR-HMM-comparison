@@ -1,0 +1,18 @@
+Author Data: Hensel et al. (2022)
+
+Citation: Hensel, D. J., Zervos, A. P., & Syzmanski, K. (2022). 200.“No one has ever asked me about this”: Results From an EMA Diary Feasibility Study to Understand Daily Incontinence Experiences in Adolescents and Young Adults With Spina Bifida. Journal of Adolescent Health, 70(4), S105.
+
+Label in Code: Hensel_2022
+Label in text: Hensel 2022
+
+Data format: .csv file
+2578 Rows, 6 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day. 
+-Angry: Observation on a scale ranging from 1-5. Recoded from angry
+-Happy: Observation on a scale ranging from 1-5. Recoded from happy
+-Friendly: Observation on a scale ranging from 1-5. Recoded from friendly
+-Irritable: Observation on a scale ranging from 1-5. Recoded from irritable

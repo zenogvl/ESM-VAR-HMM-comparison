@@ -1,0 +1,22 @@
+Author Data: Koval et al. (2015)
+
+Citation: Koval, P., Brose, A., Pe, M. L., Houben, M., Erbas, Y., Champagne, D., & Kuppens, P. (2015). Emotional inertia and external events: The roles of exposure, reactivity, and recovery. Emotion, 15(5), 625–636. https://doi.org/10.1037/emo0000059
+
+Label in Code: Koval_2015
+Label in text: Koval 2015
+
+Data format: .csv file
+14098 Rows, 11 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order or observations on a single day. 
+-Sad: Observation on a scale ranging from 0-100. Recoded from sad
+-Angry: Observation on a scale ranging from 0-100. Recoded from angry
+-Anxiety: Observation on a scale ranging from 0-100. Recoded from anx
+-Depressed: Observation on a scale ranging from 0-100. Recoded from depr
+-Stressed: Observation on a scale ranging from 0-100. Recoded from stress
+-Happy: Observation on a scale ranging from 0-100. Recoded from happy
+-Relexed: Observation on a scale ranging from 0-100. Recoded from relex
+-Excited: Observation on a scale ranging from 0-100. Recoded from excit

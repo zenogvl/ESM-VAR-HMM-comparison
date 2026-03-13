@@ -1,0 +1,33 @@
+Author Data: Fisher et al. (2017)
+
+Citation: Fisher, A. J., Reeves, J. W., Lawyer, G., Medaglia, J. D., & Rubel, J. A. (2017). Exploring the idiographic dynamics of mood and anxiety via network analysis. Journal of Abnormal Psychology, 126(8), 1044–1056. https://doi.org/10.1037/abn0000311
+
+
+Label in code: Fisher_2017
+Label in description: Fisher 2017
+
+
+Data format: .csv file
+Data with 5327 rows and 18 columns
+
+Variables
+- ID: participant id number
+- day: Number describing the day of observation
+- beep: Order or observations on a single day. 
+- Energetic: Observation ranging from 0-100.
+- Enthusiastic: Observation ranging from 0-100. 
+- Content: Observation ranging from 0-100. 
+- Irritable: Observation ranging from 0-100. 
+- Restless: Observation ranging from 0-100. 
+- Anxious: Observation ranging from 0-100. Changed from Afraid
+- Angry: Observation ranging from 0-100. 
+- Guilty: Observation ranging from 0-100. 
+- Worried: Observation ranging from 0-100. 
+- Hopeless: Observation ranging from 0-100. 
+- Depressed: Observation ranging from 0-100. Changed from Down
+- Fatigue: Observation ranging from 0-100. 
+- Positive: Observation ranging from 0-100. 
+- Date: date of observation: Year-Month-Day
+- Time: time of observation: Hour:Minute
+
+

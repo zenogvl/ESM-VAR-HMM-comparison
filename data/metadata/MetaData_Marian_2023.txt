@@ -1,0 +1,24 @@
+Author Data: Marian et al. (2023)
+
+Citation: Marian, S., Costantini, G., Macsinga, I. et al. The Dynamic Interplay of Anxious and Depressive Symptoms in a Sample of Undergraduate Students. J Psychopathol Behav Assess 45, 150–159 (2023). https://doi.org/10.1007/s10862-022-10014-8
+
+Label in Code: Marian_2023
+Label in text: Marian 2023
+
+Data format: .csv file
+8820 Rows, 10 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Worried: Observation on a scale ranging from 1-4. Recoded from "GAD_Q1"
+-Restless: Observation on a scale ranging from 1-4. Recoded from "GAD_Q3"
+-Irritable: Observation on a scale ranging from 1-4. Recoded from "GAD_Q6"
+-Sad: Observation on a scale ranging from 1-4. Recoded from "PHQ2"
+-Tired: Observation on a scale ranging from 1-4. Recoded from "PHQ4"
+
+
+

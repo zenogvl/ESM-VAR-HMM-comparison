@@ -1,0 +1,24 @@
+Author Data: Holland et al. (2017)
+
+Citation: Holland, E., Koval, P., Stratemeyer, M., Thomson, F., & Haslam, N. (2017). Sexual objectification in women's daily lives: A smartphone ecological momentary assessment study. British Journal of Social Psychology, 56(2), 314-333.
+
+Label in Code: Holland_2017
+Label in text: Holland 2017
+
+Data format: .csv file
+5626 Rows, 12 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day. 
+-obsNumber: Order of all observations
+-missed: codes missing observation. 1 for missing, 0 for recorded
+-Angry: Observation on a scale ranging from 1-100. Recoded from angry_m
+-Anxiety: Observation on a scale ranging from 1-100. Recoded from anxious_m
+-Guilty: Observation on a scale ranging from 1-100. Recoded from guilty_m
+-Sad: Observation on a scale ranging from 1-100. Recoded from sad_m
+-Happy: Observation on a scale ranging from 1-100. Recoded from happy_m
+-Relaxed: Observation on a scale ranging from 1-100. Recoded from relaxed_m
+-Confident: Observation on a scale ranging from 1-100. Recoded from confident_m
+

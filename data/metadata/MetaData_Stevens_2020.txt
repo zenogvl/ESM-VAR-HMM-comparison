@@ -1,0 +1,25 @@
+Author Data: Stevens et al. (2020) 
+
+Citation: Stevens, A., & Griffiths, S. (2020). Body positivity (# bopo) in everyday life:
+An ecological momentary assessment study showing potential benefits to
+individuals’ body image and emotional wellbeing. Body Image, 35 , 181–
+191.
+
+Label in code: Stevens_2020
+Label in text: Stevens 2020
+
+Data format: .csv file 
+5586 Rows, 11 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially
+-Anxious: Observation on a scale ranging from 0-100
+-Guilty: Observation on a scale ranging from 0-100
+-Depressed: Observation on a scale ranging from 0-100
+-Confident: Observation on a scale ranging from 0-100
+-Happy: Observation on a scale ranging from 0-100
+-Inspired: Observation on a scale ranging from 0-100

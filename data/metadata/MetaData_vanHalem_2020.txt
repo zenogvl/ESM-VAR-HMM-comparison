@@ -1,0 +1,37 @@
+Author Data: vanHalem et al. (2020)
+
+Citation: van Halem, S., Van Roekel, E., Kroencke, L., Kuper, N., & Denissen, J. (2020). Moments that matter? On the complexity of using triggers based on skin conductance to sample arousing events within an experience sampling framework. European Journal of Personality, 34(5), 794-807.
+
+Label in Code: vanHalem_2020
+Label in text: vanHalem 2020
+
+Data format: .csv file
+3940 Rows, 23 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Enthusiastic: Observation on a scale ranging from 0-100. Recoded from "Enthousiast"
+-Relaxed: Observation on a scale ranging from 0-100. Recoded from "Ontspannen"
+-Satisfied: Observation on a scale ranging from 0-100. Recoded from  "Tevreden"
+-Irritable: Observation on a scale ranging from 0-100. Recoded from "Prikkelbaar"
+-Energetic: Observation on a scale ranging from 0-100. Recoded from  "Energiek"
+-Calm: Observation on a scale ranging from 0-100. Recoded from "Kalm"
+-Cheerful: Observation on a scale ranging from 0-100. Recoded from "Vrolijk"
+-Irritated: Observation on a scale ranging from 0-100. Recoded from  "Geirriteerd"
+-Bored: Observation on a scale ranging from 0-100. Recoded from "Verveeld"
+-Nervous: Observation on a scale ranging from 0-100. Recoded from  "Nerveus"
+-Sad: Observation on a scale ranging from 0-100. Recoded from "Verdrietig"
+-Angry: Observation on a scale ranging from 0-100. Recoded from "Boos"
+-Gloomy: Observation on a scale ranging from 0-100. Recoded from "Somber"
+-Lifeless: Observation on a scale ranging from 0-100. Recoded from "futloos"
+-Insecure: Observation on a scale ranging from 0-100. Recoded from "Onzeker" 
+-Anxious: Observation on a scale ranging from 0-100. Recoded from "Angstig"
+-Happy: Observation on a scale ranging from 0-100. Recoded from "Gelukkig"
+-Worried: Observation on a scale ranging from 0-100. Recoded from "Bezorgd"
+-Stressed: Observation on a scale ranging from 0-100. Recoded from "Gestrest"
+
+

@@ -1,0 +1,20 @@
+Author Data: Dejonckheere et al. (2017) 
+
+Citation: Dejonckheere, E., Bastian, B., Fried, E. I., Murphy, S. C., & Kuppens, P. (2017). Perceiving social pressure not to feel negative predicts depressive symptoms in daily life. Depression and anxiety, 34(9), 836-844.
+
+Label in code: Dejonckheere_2017
+Label in text: Dejonckheere 2017
+
+Data format: .csv file 
+3360 Rows, 9 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially
+-Angry: Observation on a scale ranging from 1-7
+-Stressed: Observation on a scale ranging from 1-7
+-Anxious: Observation on a scale ranging from 1-7
+-Sad: Observation on a scale ranging from 1-7
+-Happy: Observation on a scale ranging from 1-7
+-Relexed: Observation on a scale ranging from 1-7

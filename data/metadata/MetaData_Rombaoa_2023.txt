@@ -1,0 +1,35 @@
+Author Data: Rombaoa et al. (2023)
+
+Citation: Rombaoa, J. P., Heshmati, S., Rodriguez, M., & Owen, T. (2023). Prioritizing lifestyle factors for effective emotion regulation: A daily study on first-year college students’ well-being during COVID-19.
+
+Label in Code: Rombaoa_2023
+Label in text: Rombaoa 2023
+
+Data format: .csv file
+2128 Rows, 23 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Lively: Observation on a scale ranging from 1-4. 
+-FullOfEnergy: Observation on a scale ranging from 1-4. 
+-Energetic: Observation on a scale ranging from 1-4. 
+-Happy: Observation on a scale ranging from 1-4. 
+-Pleased: Observation on a scale ranging from 1-4. 
+-Helpful: Observation on a scale ranging from 1-4. 
+-AtEase: Observation on a scale ranging from 1-4. 
+-Calm: Observation on a scale ranging from 1-4. 
+-Relaxed: Observation on a scale ranging from 1-4. 
+-Sad: Observation on a scale ranging from 1-4. 
+-Depressed: Observation on a scale ranging from 1-4. 
+-Unhappy: Observation on a scale ranging from 1-4. 
+-OnEdge: Observation on a scale ranging from 1-4. 
+-Nervous: Observation on a scale ranging from 1-4. 
+-Tense: Observation on a scale ranging from 1-4. 
+-Hostile: Observation on a scale ranging from 1-4. 
+-Resentful: Observation on a scale ranging from 1-4. 
+-Angry: Observation on a scale ranging from 1-4. 
+

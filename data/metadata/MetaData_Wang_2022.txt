@@ -1,0 +1,20 @@
+Author Data: Wang et al. (2022)
+
+Citation: Wang, X., McGowan, A. L., Fosco, G., Falk, E., Bassett, D. S., & Lydon-Staley, D. M. (2022). A socioemotional network perspective on momentary experiences of family conflict in young adults.
+
+Label in Code: Wang_2022
+Label in text: Wang 2022
+
+Data format: .csv file
+8929 Rows, 8 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Sad: Observation on a scale ranging from 1-100. 
+-Anxious: Observation on a scale ranging from 1-100. 
+-Angry: Observation on a scale ranging from 1-100. 
+

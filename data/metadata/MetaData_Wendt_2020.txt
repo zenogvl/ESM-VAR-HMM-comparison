@@ -1,0 +1,53 @@
+Author Data: Wendt et al. (2020)
+
+Citation: Wendt, L. P., Wright, A. G., Pilkonis, P. A., Woods, W. C., Denissen, J. J., Kühnel, A., & Zimmermann, J. (2020). Indicators of affect dynamics: Structure, reliability, and personality correlates. European Journal of Personality, 34(6), 1060-1072.
+
+Label in Code: Wendt_2020
+Label in text: Wendt 2020
+
+Data format: .csv file
+21150 Rows, 40 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-Atease: Observation on a scale ranging from 1-5. Recoded from "emo_1" 
+-Calm: Observation on a scale ranging from 1-5. Recoded from "emo_2"
+-Relaxed: Observation on a scale ranging from 1-5. Recoded from "emo_3"
+-Drowsy: Observation on a scale ranging from 1-5. Recoded from "emo_4"
+-Sluggish: Observation on a scale ranging from 1-5. Recoded from "emo_5"
+-Tired: Observation on a scale ranging from 1-5. Recoded from "emo_6"
+-Content: Observation on a scale ranging from 1-5. Recoded from "emo_7"
+-Pleased: Observation on a scale ranging from 1-5. Recoded from "emo_8"
+-Happy: Observation on a scale ranging from 1-5. Recoded from "emo_9"
+-Alert: Observation on a scale ranging from 1-5. Recoded from "emo_10"
+-Aroused: Observation on a scale ranging from 1-5. Recoded from "emo_11"
+-Hyperactivated: Observation on a scale ranging from 1-5. Recoded from "emo_12"
+-Miserable: Observation on a scale ranging from 1-5. Recoded from "emo_13"
+-Troubled: Observation on a scale ranging from 1-5. Recoded from "emo_14"
+-Unhappy: Observation on a scale ranging from 1-5. Recoded from "emo_15"
+-Sleepy: Observation on a scale ranging from 1-5. Recoded from "emo_16"
+-Quiet: Observation on a scale ranging from 1-5. Recoded from "emo_17"
+-Still: Observation on a scale ranging from 1-5. Recoded from "emo_18"
+-Afraid: Observation on a scale ranging from 1-5. Recoded from "emo_19"
+-Ashamed: Observation on a scale ranging from 1-5. Recoded from "emo_20"
+-Distressed: Observation on a scale ranging from 1-5. Recoded from "emo_21"
+-Guilty: Observation on a scale ranging from 1-5. Recoded from "emo_22"
+-Hostile: Observation on a scale ranging from 1-5. Recoded from "emo_23"
+-Irritable: Observation on a scale ranging from 1-5. Recoded from "emo_24"
+-Jittery: Observation on a scale ranging from 1-5. Recoded from "emo_25"
+-Nervous: Observation on a scale ranging from 1-5. Recoded from "emo_26"
+-Scared: Observation on a scale ranging from 1-5. Recoded from "emo_27"
+-Upset: Observation on a scale ranging from 1-5. Recoded from "emo_28"
+-Active: Observation on a scale ranging from 1-5. Recoded from "emo_29"
+-Alone: Observation on a scale ranging from 1-5. Recoded from "emo_30"
+-Attentive: Observation on a scale ranging from 1-5. Recoded from "emo_31"
+-Determined: Observation on a scale ranging from 1-5. Recoded from "emo_32"
+-Enthusiastic: Observation on a scale ranging from 1-5. Recoded from "emo_33"
+-Excited: Observation on a scale ranging from 1-5. Recoded from "emo_34"
+-Inspired: Observation on a scale ranging from 1-5. Recoded from "emo_35"
+-Interested: Observation on a scale ranging from 1-5. Recoded from "emo_36"
+-Proud: Observation on a scale ranging from 1-5. Recoded from "emo_37"
+-Strong: Observation on a scale ranging from 1-5. Recoded from "emo_38"
+
+

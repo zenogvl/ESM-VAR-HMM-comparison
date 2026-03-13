@@ -1,0 +1,29 @@
+Author Data: Tammilehto et al. (2022)
+
+Citation: : Jaakko Tammilehto, Guy Bosmans, Peter Kuppens, Marjo Flykt, Kirsi 
+Peltonen, Kathryn A. Kerns & Jallu Lindblom (2022) Dynamics of attachment and emotion
+regulation in daily life: uni- and bidirectional associations, Cognition and Emotion, 36:6,
+1109-1131, DOI: 10.1080/02699931.2022.2081534
+
+
+Label in Code: Tammilehto_2022
+Label in text: Tammilehto 2022
+
+Data format: .csv file
+5978 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Joy: Observation on a scale ranging from 1-5.
+-Exciteme: Observation on a scale ranging from 1-5.
+-Pride: Observation on a scale ranging from 1-5.
+-Pleased: Observation on a scale ranging from 1-5.
+-Anger: Observation on a scale ranging from 1-5.
+-Anxiety: Observation on a scale ranging from 1-5.
+-Shame: Observation on a scale ranging from 1-5.
+-Sad: Observation on a scale ranging from 1-5.
+

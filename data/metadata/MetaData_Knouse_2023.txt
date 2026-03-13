@@ -1,0 +1,25 @@
+Author Data: Knouse et al. (2023)
+
+Citation: Knouse, L. E., Ziegler, M., Lavine, I., Zhang, J., Cheng, Y., & Ain, H. U. (2023). Avoidant Automatic Thoughts, Task Avoidance, and ADHD Symptoms: An Ecological Momentary Assessment Study.
+
+Label in Code: Knouse_2023
+Label in text: Knouse 2023
+
+Data format: .csv file
+1818 Rows, 13 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-missing: codes missing observation. 1 for missing, 0 for recorded 
+-Sad: Observation on a scale ranging from 1-5. 
+-Lonely: Observation on a scale ranging from 1-5. 
+-Jittery: Observation on a scale ranging from 1-5. 
+-Nervous: Observation on a scale ranging from 1-5. 
+-Angry: Observation on a scale ranging from 1-5. 
+-Hostile: Observation on a scale ranging from 1-5. 
+-Happy: Observation on a scale ranging from 1-5. 
+-Excited: Observation on a scale ranging from 1-5. 
+

@@ -1,0 +1,32 @@
+Author Data: Kroencke et al. (2023)
+
+Citation: Kroencke, L., Kuper, N., Mota, S., Geukes, K., Zeigler-Hill, V., & Back, M. D. (2023, April 20). Narcissistic Status Pursuit in Everyday Social Life: A Within-Person Process Approach to the Behavioral and Emotional Dynamics of Narcissism. https://doi.org/10.31234/osf.io/sz2jh
+
+Label in Code: Kroencke_2023
+Label in text: Kroencke 2023
+
+Data format: .csv file
+29512 Rows, 16 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day.
+-observationID: Unique ID corrospoinding with the order of observations
+-Proud: Observation on a scale ranging from 1-6. 
+-Success: Observation on a scale ranging from 1-6. 
+-Superior: Observation on a scale ranging from 1-6. 
+-Angry: Observation on a scale ranging from 1-6. 
+-Envious: Observation on a scale ranging from 1-6. 
+-Resentful: Observation on a scale ranging from 1-6. 
+-Ashamed: Observation on a scale ranging from 1-6. 
+-Insecure: Observation on a scale ranging from 1-6. 
+-Enthusiastic: Observation on a scale ranging from 1-6. 
+-Relaxed: Observation on a scale ranging from 1-6. 
+-Anxious: Observation on a scale ranging from 1-6. 
+-Sad: Observation on a scale ranging from 1-6. 
+
+
+
+
+

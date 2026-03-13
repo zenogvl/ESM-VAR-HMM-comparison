@@ -1,0 +1,22 @@
+Author Data: Blanke et al. (2017) 
+
+Citation: Blanke, E.S., Brose, A. Mindfulness in Daily Life: a Multidimensional Approach. Mindfulness 8, 737–750 (2017). https://doi.org/10.1007/s12671-016-0651-4
+
+Label in code: Blanke_2017
+Label in text: Blanke 2017
+
+Data format: .csv file 
+4416 Rows, 11 Columns 
+
+Variables:
+-ID: participant id number
+-day: Number describing the day of observation
+-beep: Order of observations on a single day
+-observationID: Unique ID corresponding with the order of observations
+-missing: codes missing observation. 0 for recorded, 1 for missing, 2 for partially
+-Cheerful: Observation on a scale ranging from 1-7. Recoded from: M_nerv
+-Anxious: Observation on a scale ranging from 1-7. Recoded from: M_nieder
+-Content: Observation on a scale ranging from 1-7. Recoded from: M_bekuem
+-Sad: Observation on a scale ranging from 1-7. Recoded from: M_Aff1
+-Cheerful: Observation on a scale ranging from 1-7. Recoded from: M_entsp
+-Anxious: Observation on a scale ranging from 1-7. Recoded from: M_zufr
