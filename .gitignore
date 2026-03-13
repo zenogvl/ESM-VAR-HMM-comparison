@@ -47,3 +47,20 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Raw data (too large for GitHub, stored on OSF)
+data/raw/
+
+# Large model output (stored on OSF)
+output/multilevel_hmm/model_fits/*.rds
+output/multilevel_var/model_fits/*.rds
+output/multilevel_hmm/predictions/*.rds
+output/multilevel_var/predictions/*.rds
+
+# Temporary RDS files in root
+data_Rowland2020.RDS
+Grommisch2020_subset.RDS
+Output/test_mHMMbayes_results.RDS
+
+# Keep gitkeep files
+!**/.gitkeep
